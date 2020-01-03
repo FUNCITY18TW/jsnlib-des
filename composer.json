@@ -1,5 +1,5 @@
 {
-  "name": "jsnlib/des",
+  "name": "funcity/des",
   "type": "library",
   "description": "實現 DES 加密、解密方式",
   "keywords": ["des", "laravel", "encryption"],
